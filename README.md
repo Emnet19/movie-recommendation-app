@@ -69,7 +69,8 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 \`\`\`
 ├── app/
-│   ├── layout.tsx          # Root layout
+
+│   ├── layout.tsx           # Root layout
 │   ├── globals.css         # Global styles
 │   ├── page.tsx            # Home page with trending movies
 │   ├── movie/

@@ -1,6 +1,6 @@
 # MovieFlix - Movie Recommendation Web App
 
-A fully functional movie recommendation app built with Next.js, TypeScript, and styled with Tailwind CSS. Featuring real-time data from The Movie Database (TMDB) API.
+A fully functional movie recommendation app built with Next.js, TypeScript, and styled with Tailwind CSS. Featuring real-time data from The Movie Database (TMDB) API.The reason why I used TMDB is that I couldn't find anyone who can give me the API for movie recommendation from backend team , I have tried to reach some of them but I think they are also busy building their task they couldn't even see the text I sent them. Because of these reason it was mandatory for me to use TMDB. 
 
 ## Features
 

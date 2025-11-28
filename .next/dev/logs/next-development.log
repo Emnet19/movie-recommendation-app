@@ -1,0 +1,193 @@
+[00:00:03.556] Server  LOG     
+[00:00:03.558] Server  LOG        We detected TypeScript in your project and reconfigured your tsconfig.json file for you.
+[00:00:03.562] Server  LOG        The following suggested values were added to your tsconfig.json. These values can be changed to fit your project's needs:
+
+[00:00:03.564] Server  LOG        	- include was updated to add '.next/dev/types/**/*.ts'
+[00:00:03.565] Server  LOG     
+[00:00:03.565] Server  LOG        The following mandatory changes were made to your tsconfig.json:
+
+[00:00:03.566] Server  LOG        	- jsx was set to react-jsx (next.js uses the React automatic runtime)
+[00:00:03.567] Server  LOG     
+[00:00:04.417] Server  LOG      ✓ Ready in 3.1s
+[00:00:23.674] Server  LOG      ○ Compiling / ...
+[00:00:30.259] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:31.373] Server  WARN    TMDB_API_KEY is not set
+[00:00:32.021] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:32.021] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:32.021] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764279292709}
+[00:00:32.177] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\.next\dev\server\chunks\[root-of-the-server]__e03977d7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.265] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.386] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\.next\dev\server\chunks\node_modules_next_303754e6._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.407] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.426] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.435] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.440] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.448] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.457] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.465] Server  ERROR   TMDB API call failed: Error: TMDB API error: 401
+[00:00:32.471] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\.next\dev\server\chunks\[root-of-the-server]__e03977d7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.476] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.478] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\.next\dev\server\chunks\node_modules_next_303754e6._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.481] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.487] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.489] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.490] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.492] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.523] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:32.526] Server  ERROR   API error: Error: TMDB API error: 401
+[00:00:32.680] Browser ERROR   {}
+[00:00:37.800] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:37.947] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:37.947] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:37.947] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764279298638}
+[00:00:42.354] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\.next\dev\server\chunks\[root-of-the-server]__e03977d7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.358] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.361] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\.next\dev\server\chunks\node_modules_next_303754e6._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.365] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.367] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.370] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.372] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.376] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.380] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.382] Server  ERROR   TMDB API call failed: Error: TMDB API error: 401
+[00:00:42.385] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\.next\dev\server\chunks\[root-of-the-server]__e03977d7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.389] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.391] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\.next\dev\server\chunks\node_modules_next_303754e6._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.395] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.397] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.399] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.401] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.403] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.406] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:00:42.412] Server  ERROR   API error: Error: TMDB API error: 401
+[00:00:42.526] Browser ERROR   {}
+[00:02:28.077] Server  LOG      ✓ Compiled in 175ms
+[00:02:31.045] Server  LOG      ✓ Compiled in 139ms
+[00:02:38.070] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:38.222] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:02:38.222] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:02:38.222] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764279418913}
+[00:02:40.499] Browser ERROR   {}
+[00:03:38.433] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:03:38.701] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:03:38.701] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:03:38.701] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764279479304}
+[00:03:38.821] Browser ERROR   {}
+[00:03:42.153] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/search color: rgb(120, 120, 120) color: inherit {"dp":"/search","o":"http://localhost:3001/search","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764279482837}
+[00:03:52.961] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764279493571}
+[00:03:53.100] Browser ERROR   {}
+[00:03:53.208] Browser ERROR   {}
+[00:04:19.606] Server  LOG      ✓ Compiled in 219ms
+[00:05:58.374] Server  LOG        Reload env: .env
+[00:06:00.921] Server  LOG        Reload env: .env
+[00:06:07.009] Server  LOG        Reload env: .env
+[00:06:24.971] Server  LOG        Reload env: .env
+[00:06:35.461] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:06:35.829] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en" className="dark">
+                          <body
+                            className="font-sans antialiased bg-background text-foreground"
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+
+[00:06:36.097] Server  WARN    TMDB_API_KEY is not set
+[00:06:36.274] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:06:36.274] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:06:36.274] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764279656584}
+[00:06:38.108] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\.next\dev\server\chunks\[root-of-the-server]__e03977d7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.121] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.189] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\.next\dev\server\chunks\node_modules_next_303754e6._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.191] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.193] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.194] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.196] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.199] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.200] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.204] Server  ERROR   TMDB API call failed: Error: TMDB API error: 401
+[00:06:38.206] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\.next\dev\server\chunks\[root-of-the-server]__e03977d7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.210] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\compiled\next-server\app-route-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.213] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\.next\dev\server\chunks\node_modules_next_303754e6._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.217] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\base-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.219] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\next-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.221] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\dev\next-dev-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.224] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\trace\trace.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.226] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\lib\router-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.228] Server  ERROR   C:\Users\emnbe\Documents\GitHub\movie-recommendation-app\node_modules\next\dist\server\lib\start-server.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:06:38.230] Server  ERROR   API error: Error: TMDB API error: 401
+[00:06:38.351] Browser ERROR   {}
+[00:29:55.186] Server  LOG        Reload env: .env
+[00:30:06.659] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:30:07.053] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:30:07.054] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:30:07.054] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764281067732}
+[00:30:22.206] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/search color: rgb(120, 120, 120) color: inherit {"dp":"/search","o":"http://localhost:3001/search","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764281082889}
+[01:13:05.473] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764283646073}
+[01:13:12.361] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:13:12.649] Browser ERROR   A tree hydrated but some attributes of the server rendered HTML didn't match the client properties. This won't be patched up. This can happen if a SSR-ed Client Component used:
+
+- A server/client branch `if (typeof window !== 'undefined')`.
+- Variable input such as `Date.now()` or `Math.random()` which changes each time it's called.
+- Date formatting in a user's locale which doesn't match the server.
+- External changing data without sending a snapshot of it along with the HTML.
+- Invalid HTML tag nesting.
+
+It can also happen if the client has a browser extension installed which messes with the HTML before React loaded.
+
+%s%s https://react.dev/link/hydration-mismatch 
+
+  ...
+    <HotReload globalError={[...]} webSocket={WebSocket} staticIndicatorState={{pathname:null, ...}}>
+      <AppDevOverlayErrorBoundary globalError={[...]}>
+        <ReplaySsrOnlyErrors>
+        <DevRootHTTPAccessFallbackBoundary>
+          <HTTPAccessFallbackBoundary notFound={<NotAllowedRootHTTPFallbackError>}>
+            <HTTPAccessFallbackErrorBoundary pathname="/" notFound={<NotAllowedRootHTTPFallbackError>} ...>
+              <RedirectBoundary>
+                <RedirectErrorBoundary router={{...}}>
+                  <Head>
+                  <__next_root_layout_boundary__>
+                    <SegmentViewNode type="layout" pagePath="layout.tsx">
+                      <SegmentTrieNode>
+                      <link>
+                      <script>
+                      <script>
+                      <RootLayout>
+                        <html lang="en" className="dark">
+                          <body
+                            className="font-sans antialiased bg-background text-foreground"
+-                           cz-shortcut-listen="true"
+                          >
+                  ...
+
+[01:13:12.649] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[01:13:12.649] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[01:13:12.649] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3001/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://localhost:3001/","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764283653340}

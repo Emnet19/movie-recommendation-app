@@ -68,30 +68,55 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 ## Project Structure
 
 \`\`\`
+
 ├── app/
-│   ├── layout.tsx          # Root layout
+
+│   ├── layout.tsx           # Root layout
+
 │   ├── globals.css         # Global styles
+
 │   ├── page.tsx            # Home page with trending movies
+
 │   ├── movie/
+
 │   │   └── [id]/
+
 │   │       └── page.tsx    # Movie detail page
+
 │   ├── search/
+
 │   │   └── page.tsx        # Search page
+
 │   └── favorites/
+
 │       └── page.tsx        # Favorites page
+
 ├── components/
+
 │   ├── navbar.tsx          # Navigation component
+
 │   ├── movie-card.tsx      # Individual movie card
+
 │   ├── movie-grid.tsx      # Grid of movie cards
-│   ├── loading-skeleton.tsx # Loading state
+
+│   ├── loading-skeleton.tsx   # Loading state
+
 │   └── error-ui.tsx        # Error state
+
 ├── hooks/
+
 │   └── use-favorites.ts    # Custom hook for favorites management
+
 ├── types/
+
 │   └── movie.ts            # TypeScript interfaces
+
 ├── utils/
+
 │   └── tmdb.ts             # TMDB API utilities
-└── .env.example            # Environment variables template
+
+└── .env            # Environment variables template
+
 \`\`\`
 
 ## Pages

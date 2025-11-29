@@ -10,7 +10,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "MovieFlix - Movie Recommendations",
   description: "Discover trending movies, get personalized recommendations, and manage your favorites.",
-  generator: "v0.app",
+  
 }
 
 export default function RootLayout({
